@@ -4,6 +4,6 @@ Hi! This is **Lluís Francesc Collell Erra**, a Biomedical Engineering student p
 
 ## 📫 Contact Me
 
-- 📧 Email: [uiscollell@gmail.com](mailto:uiscollell@gmail.com)  
+- 📧 Email: [collellerralluis@gmail.com](mailto:uiscollell@gmail.com)  
 - 💼 LinkedIn: [Lluís Francesc Collell Erra](https://www.linkedin.com/in/lluís-francesc-collell-erra)  
 
