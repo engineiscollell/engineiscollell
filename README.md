@@ -35,7 +35,7 @@ Curiosity defines me. I like experimenting, learning new things, and stepping in
 
 I enjoy discussing ideas in a conversational format, especially around technology, engineering, psychology, and society. I like spaces where curiosity and critical thinking drive the conversation.
 
-- _Generación propósito_ presentation: https://studio.youtube.com/video/LFLLcmZ8RyY/edit_  🇪🇸 ESP
+- _Generación propósito_ presentation: https://youtu.be/LFLLcmZ8RyY  🇪🇸 ESP
 -  _University job offer__ Requisite: Video on most common questions and what would I answer: https://youtu.be/hGNnXDFfdxU 🟡🔴 CAT
 
 Thanks for your attention and hope you like my profile!
