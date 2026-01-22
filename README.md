@@ -21,11 +21,11 @@ I’m deeply interested in humanities, economics, and psychology, especially whe
 
 During second course I was able to take a mobility program at Belgium, check it out:
 
-![Spanish team](Spain_group.jpg)
+![Spanish team](assets/Spain_group.jpg)
 
 We studied VR implementing IMUs, ROS communication...
 
-![Project development session](HELHA_VR_Project.jpg)
+![Project development session](assets/HELHA_VR_Project.jpg)
 
 ## 🧠 Personality
 
