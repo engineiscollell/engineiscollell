@@ -25,7 +25,7 @@ This is me with Xavier Verdaguer.
 
 ## 🌍 Interests
 
-I’m deeply interested in humanities, economics, and psychology, especially where they intersect. I enjoy long conversations about how people think, how societies function, and why decisions are made the way they are. Film and storytelling are another strong interest, both as a way to explore perspectives and as a craft in themselves. Travelling is also important to me: discovering different cultures, spending time in nature, and exploring food are some of the ways I stay curious about the world.
+I’m very interested in recent advances in AI, chips and robotics. I enjoy conversations about humanities, economics and psychology. Film and storytelling are another strong interest. I try to travel whenever I have free time, I like discovering different cultures, spending time in nature, and exploring food.
 
 During second course I was able to take a mobility program at Belgium, check it out:
 
@@ -41,7 +41,7 @@ Curiosity defines me. I like experimenting, learning new things, and stepping in
 
 ## 🎙 Hear me talking
 
-I enjoy discussing ideas in a conversational format, especially around technology, engineering, psychology, and society. I like spaces where curiosity and critical thinking drive the conversation.
+I enjoy discussing ideas, especially around technology, engineering, psychology, and society. I believe communication is a strong asset of mine.
 
 - _Generación propósito_ presentation: https://youtu.be/LFLLcmZ8RyY  🇪🇸 ESP
 -  _University job offer__ Requisite: Video on most common questions and what would I answer: https://youtu.be/hGNnXDFfdxU 🟡🔴 CAT
