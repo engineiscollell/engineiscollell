@@ -5,6 +5,14 @@
 I mainly work with C, C#, and Python. I also have some experience with R and MATLAB.  
 My background is in biomedical engineering, and I particularly enjoy problems that involve mathematics, medical data, or electronics.
 
+## 🤝 Soft skills
+
+I’m comfortable working autonomously.
+
+I’m used to problem-solving under uncertainty. When information is incomplete or constraints change, I focus on understanding the problem, testing assumptions, and iterating toward practical solutions rather than waiting for perfect conditions.
+
+Communication and reliability matter a lot to me. I try to be clear, honest, and direct when sharing ideas or progress, and I take commitments seriously. If I say I’ll do something, I make sure it gets done.
+
 ## 🏃 Hobbies
 
 Sports have always been part of my life. I’ve played basketball since I was eight years old and spent several years as team captain. I enjoy trying new sports, and over time I’ve gravitated toward martial arts and, more recently, climbing walls. Every now and then, I like playing chess with friends or family.
