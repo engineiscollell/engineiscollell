@@ -29,7 +29,7 @@ During second course I was able to take a mobility program at Belgium, check it 
 
 <img src="assets/Spain_group.jpg" alt="Spanish team" width="300">
 
-We studied VR implementing IMUs, ROS communication...
+The topic was VR integrating IMUs, ROS communication...
 
 <img src="assets/HELHA_VR_Project.jpg" alt="Project development session" width="300">
 
