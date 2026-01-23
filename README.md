@@ -7,11 +7,9 @@ My background is in biomedical engineering, and I particularly enjoy problems th
 
 ## 🤝 Soft skills
 
-I’m comfortable working autonomously.
-
-I’m used to problem-solving under uncertainty. When information is incomplete or constraints change, I focus on understanding the problem, testing assumptions, and iterating toward practical solutions rather than waiting for perfect conditions.
-
-Communication and reliability matter a lot to me. I try to be clear, honest, and direct when sharing ideas or progress, and I take commitments seriously. If I say I’ll do something, I make sure it gets done.
+I’m comfortable working autonomously. 
+I’m used to problem-solving under uncertainty.
+Communication and reliability matter a lot to me. I try to be clear, honest, and direct when sharing ideas or progress. If I say I’ll do something, I make sure it gets done.
 
 ## 🏃 Hobbies
 
@@ -21,27 +19,27 @@ I strongly enjoy social events at university such as hackathons, meetings, event
 
 This is me with Xavier Verdaguer. 
 
-![Dream BIG](assets/Hackathon_team.JPG)
+<img src="assets/Hackathon_team.JPG" alt="Dream BIG" width="400">
 
 ## 🌍 Interests
 
-I’m very interested in recent advances in AI, chips and robotics. I enjoy conversations about humanities, economics and psychology. Film and storytelling are another strong interest. I try to travel whenever I have free time, I like discovering different cultures, spending time in nature, and exploring food.
+I enjoy conversations that go beyond tech—especially about economics, humanities, and film. I like exchanging ideas and meeting people who are passionate about what they do. I try to travel whenever I have free time, I like discovering different cultures, spending time in nature, and exploring food.
 
 During second course I was able to take a mobility program at Belgium, check it out:
 
-![Spanish team](assets/Spain_group.jpg)
+<img src="assets/Spain_group.jpg" alt="Spanish team" width="300">
 
 We studied VR implementing IMUs, ROS communication...
 
-![Project development session](assets/HELHA_VR_Project.jpg)
+<img src="assets/HELHA_VR_Project.jpg" alt="Project development session" width="300">
 
 ## 🧠 Personality
 
-Curiosity defines me. I like experimenting, learning new things, and stepping into unfamiliar domains. I’m energetic and enjoy talking to people who are genuinely passionate about what they do.
+Curiosity defines me. I like experimenting, learning new things, and stepping into unfamiliar domains.
 
 ## 🎙 Hear me talking
 
-I enjoy discussing ideas, especially around technology, engineering, psychology, and society. I believe communication is a strong asset of mine.
+I enjoy discussing ideas. I believe communication is a strong asset of mine.
 
 - _Generación propósito_ presentation: https://youtu.be/LFLLcmZ8RyY  🇪🇸 ESP
 -  _University job offer__ Requisite: Video on most common questions and what would I answer: https://youtu.be/hGNnXDFfdxU 🟡🔴 CAT
