@@ -25,7 +25,7 @@ This is me with Xavier Verdaguer.
 
 I enjoy conversations that go beyond tech—especially about economics, humanities, and film. I like exchanging ideas and meeting people who are passionate about what they do. I try to travel whenever I have free time, I like discovering different cultures, spending time in nature, and exploring food.
 
-During second course I was able to take a mobility program at Belgium, check it out:
+During second course I was able to take a mobility program at Belgium:
 
 <img src="assets/Spain_group.jpg" alt="Spanish team" width="300">
 
