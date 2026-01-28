@@ -29,19 +29,5 @@ During second course I was able to take a mobility program at Belgium:
 
 <img src="assets/Spain_group.jpg" alt="Spanish team" width="300">
 
-The topic was VR integrating IMUs, ROS communication...
 
-<img src="assets/HELHA_VR_Project.jpg" alt="Project development session" width="300">
-
-## 🧠 Personality
-
-Curiosity defines me. I like experimenting, learning new things, and stepping into unfamiliar domains.
-
-## 🎙 Hear me talking
-
-I enjoy discussing ideas. I believe communication is a strong asset of mine.
-
-- _Generación propósito_ presentation: https://youtu.be/LFLLcmZ8RyY  🇪🇸 ESP
--  _University job offer__ Requisite: Video on most common questions and what would I answer: https://youtu.be/hGNnXDFfdxU 🟡🔴 CAT
-
-Thanks for your attention and hope you like my profile!
+#### Thanks for your attention and hope you like my profile!
