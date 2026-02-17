@@ -17,17 +17,10 @@ Sports have always been part of my life. I’ve played basketball since I was ei
 
 I strongly enjoy social events at university such as hackathons, meetings, events... 
 
-This is me with Xavier Verdaguer. 
-
-<img src="assets/Hackathon_team.JPG" alt="Dream BIG" width="400">
-
 ## 🌍 Interests
 
 I enjoy conversations that go beyond tech—especially about economics, humanities, and film. I like exchanging ideas and meeting people who are passionate about what they do. I try to travel whenever I have free time, I like discovering different cultures, spending time in nature, and exploring food.
 
-During second course I was able to take a mobility program at Belgium:
-
-<img src="assets/Spain_group.jpg" alt="Spanish team" width="300">
-
+During second course I was able to take a mobility program at Belgium!
 
 #### Thanks for your attention and hope you like my profile!
