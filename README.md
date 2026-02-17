@@ -2,7 +2,7 @@
 
 ## 🛠 Technical skills
 
-I mainly work with C, C#, and Python. I also have some experience with R and MATLAB.  
+I mainly work with C, C#, and Python. I also have some experience with R, Java and MATLAB.  
 My background is in biomedical engineering, and I particularly enjoy problems that involve mathematics, medical data, or electronics.
 
 ## 🤝 Soft skills
